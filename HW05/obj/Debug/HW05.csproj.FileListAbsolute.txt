@@ -1,0 +1,7 @@
+D:\ВУЗ\.NET C#\Homework\HW05\bin\Debug\HW05.exe.config
+D:\ВУЗ\.NET C#\Homework\HW05\bin\Debug\HW05.exe
+D:\ВУЗ\.NET C#\Homework\HW05\bin\Debug\HW05.pdb
+D:\ВУЗ\.NET C#\Homework\HW05\obj\Debug\HW05.csproj.AssemblyReference.cache
+D:\ВУЗ\.NET C#\Homework\HW05\obj\Debug\HW05.csproj.CoreCompileInputs.cache
+D:\ВУЗ\.NET C#\Homework\HW05\obj\Debug\HW05.exe
+D:\ВУЗ\.NET C#\Homework\HW05\obj\Debug\HW05.pdb

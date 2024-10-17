@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8324BE3-7041-4802-ABBF-5039B12E12F1}|HW08.csproj|d:\\\u0432\u0443\u0437\\.net c#\\homework\\hw08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8324BE3-7041-4802-ABBF-5039B12E12F1}|HW08.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8324BE3-7041-4802-ABBF-5039B12E12F1}|HW08.csproj|D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW08\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8324BE3-7041-4802-ABBF-5039B12E12F1}|HW08.csproj|solutionrelative:creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreditCard.cs",
+              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW08\\CreditCard.cs",
+              "RelativeDocumentMoniker": "CreditCard.cs",
+              "ToolTip": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW08\\CreditCard.cs",
+              "RelativeToolTip": "CreditCard.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAASwAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:03:17.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW08\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW08\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:02:59.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E287319-77C9-482F-8113-62C55A09E330}|HW09.csproj|d:\\\u0432\u0443\u0437\\.net c#\\homework\\hw09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E287319-77C9-482F-8113-62C55A09E330}|HW09.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E287319-77C9-482F-8113-62C55A09E330}|HW09.csproj|d:\\\u0432\u0443\u0437\\.net c#\\homework\\hw09\\mydate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E287319-77C9-482F-8113-62C55A09E330}|HW09.csproj|solutionrelative:mydate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyDate.cs",
+              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW09\\MyDate.cs",
+              "RelativeDocumentMoniker": "MyDate.cs",
+              "ToolTip": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW09\\MyDate.cs",
+              "RelativeToolTip": "MyDate.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAAAK4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:55:20.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW09\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW09\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:54:08.12Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

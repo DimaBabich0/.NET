@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{655C1A5D-CC41-4551-A3E0-6635F090F86E}|HW13.csproj|D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW13\\animalworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655C1A5D-CC41-4551-A3E0-6635F090F86E}|HW13.csproj|solutionrelative:animalworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655C1A5D-CC41-4551-A3E0-6635F090F86E}|HW13.csproj|D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655C1A5D-CC41-4551-A3E0-6635F090F86E}|HW13.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655C1A5D-CC41-4551-A3E0-6635F090F86E}|HW13.csproj|d:\\\u0432\u0443\u0437\\.net c#\\homework\\hw13\\carnivore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655C1A5D-CC41-4551-A3E0-6635F090F86E}|HW13.csproj|solutionrelative:carnivore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655C1A5D-CC41-4551-A3E0-6635F090F86E}|HW13.csproj|D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW13\\continent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655C1A5D-CC41-4551-A3E0-6635F090F86E}|HW13.csproj|solutionrelative:continent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655C1A5D-CC41-4551-A3E0-6635F090F86E}|HW13.csproj|D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW13\\herbivore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655C1A5D-CC41-4551-A3E0-6635F090F86E}|HW13.csproj|solutionrelative:herbivore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnimalWorld.cs",
+              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW13\\AnimalWorld.cs",
+              "RelativeDocumentMoniker": "AnimalWorld.cs",
+              "ToolTip": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW13\\AnimalWorld.cs",
+              "RelativeToolTip": "AnimalWorld.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:48:25.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Continent.cs",
+              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW13\\Continent.cs",
+              "RelativeDocumentMoniker": "Continent.cs",
+              "ToolTip": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW13\\Continent.cs",
+              "RelativeToolTip": "Continent.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:48:01.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Carnivore.cs",
+              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW13\\Carnivore.cs",
+              "RelativeDocumentMoniker": "Carnivore.cs",
+              "ToolTip": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW13\\Carnivore.cs",
+              "RelativeToolTip": "Carnivore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:38:10.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Herbivore.cs",
+              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW13\\Herbivore.cs",
+              "RelativeDocumentMoniker": "Herbivore.cs",
+              "ToolTip": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW13\\Herbivore.cs",
+              "RelativeToolTip": "Herbivore.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAhwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:37:28.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW13\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW13\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:36:16.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

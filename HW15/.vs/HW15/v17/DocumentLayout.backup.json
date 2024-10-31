@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1897E4C-F1E6-4FFE-BF57-531731B1223B}|HW15.csproj|D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1897E4C-F1E6-4FFE-BF57-531731B1223B}|HW15.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1897E4C-F1E6-4FFE-BF57-531731B1223B}|HW15.csproj|d:\\\u0432\u0443\u0437\\.net c#\\homework\\hw15\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1897E4C-F1E6-4FFE-BF57-531731B1223B}|HW15.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1897E4C-F1E6-4FFE-BF57-531731B1223B}|HW15.csproj|D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW15\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1897E4C-F1E6-4FFE-BF57-531731B1223B}|HW15.csproj|solutionrelative:library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Library.cs",
+              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW15\\Library.cs",
+              "RelativeDocumentMoniker": "Library.cs",
+              "ToolTip": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW15\\Library.cs",
+              "RelativeToolTip": "Library.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:23:44.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW15\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW15\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAgwDEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:18:07.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW15\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW15\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAIwC0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:23:21.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

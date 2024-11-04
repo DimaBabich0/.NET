@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9146BE75-5589-41A3-9B89-D43ADBFD8AA2}|HW17.csproj|d:\\\u0432\u0443\u0437\\.net c#\\homework\\hw17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9146BE75-5589-41A3-9B89-D43ADBFD8AA2}|HW17.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9146BE75-5589-41A3-9B89-D43ADBFD8AA2}|HW17.csproj|d:\\\u0432\u0443\u0437\\.net c#\\homework\\hw17\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9146BE75-5589-41A3-9B89-D43ADBFD8AA2}|HW17.csproj|solutionrelative:house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9146BE75-5589-41A3-9B89-D43ADBFD8AA2}|HW17.csproj|d:\\\u0432\u0443\u0437\\.net c#\\homework\\hw17\\houseparts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9146BE75-5589-41A3-9B89-D43ADBFD8AA2}|HW17.csproj|solutionrelative:houseparts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9146BE75-5589-41A3-9B89-D43ADBFD8AA2}|HW17.csproj|d:\\\u0432\u0443\u0437\\.net c#\\homework\\hw17\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9146BE75-5589-41A3-9B89-D43ADBFD8AA2}|HW17.csproj|solutionrelative:team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9146BE75-5589-41A3-9B89-D43ADBFD8AA2}|HW17.csproj|d:\\\u0432\u0443\u0437\\.net c#\\homework\\hw17\\workers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9146BE75-5589-41A3-9B89-D43ADBFD8AA2}|HW17.csproj|solutionrelative:workers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Workers.cs",
+              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW17\\Workers.cs",
+              "RelativeDocumentMoniker": "Workers.cs",
+              "ToolTip": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW17\\Workers.cs",
+              "RelativeToolTip": "Workers.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAywE0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:17:20.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Team.cs",
+              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW17\\Team.cs",
+              "RelativeDocumentMoniker": "Team.cs",
+              "ToolTip": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW17\\Team.cs",
+              "RelativeToolTip": "Team.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:14:25.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HouseParts.cs",
+              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW17\\HouseParts.cs",
+              "RelativeDocumentMoniker": "HouseParts.cs",
+              "ToolTip": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW17\\HouseParts.cs",
+              "RelativeToolTip": "HouseParts.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:13:56.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "House.cs",
+              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW17\\House.cs",
+              "RelativeDocumentMoniker": "House.cs",
+              "ToolTip": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW17\\House.cs",
+              "RelativeToolTip": "House.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwCMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:13:05.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW17\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW17\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:42:17.24Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

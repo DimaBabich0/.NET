@@ -1,0 +1,7 @@
+D:\ВУЗ\.NET C#\Homework\HW17\bin\Debug\HW17.exe.config
+D:\ВУЗ\.NET C#\Homework\HW17\bin\Debug\HW17.exe
+D:\ВУЗ\.NET C#\Homework\HW17\bin\Debug\HW17.pdb
+D:\ВУЗ\.NET C#\Homework\HW17\obj\Debug\HW17.csproj.AssemblyReference.cache
+D:\ВУЗ\.NET C#\Homework\HW17\obj\Debug\HW17.csproj.CoreCompileInputs.cache
+D:\ВУЗ\.NET C#\Homework\HW17\obj\Debug\HW17.exe
+D:\ВУЗ\.NET C#\Homework\HW17\obj\Debug\HW17.pdb

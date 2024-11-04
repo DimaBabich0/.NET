@@ -1,0 +1,15 @@
+D:\ВУЗ\.NET C#\Homework\HW19\bin\Debug\net8.0\HW19.exe
+D:\ВУЗ\.NET C#\Homework\HW19\bin\Debug\net8.0\HW19.deps.json
+D:\ВУЗ\.NET C#\Homework\HW19\bin\Debug\net8.0\HW19.runtimeconfig.json
+D:\ВУЗ\.NET C#\Homework\HW19\bin\Debug\net8.0\HW19.dll
+D:\ВУЗ\.NET C#\Homework\HW19\bin\Debug\net8.0\HW19.pdb
+D:\ВУЗ\.NET C#\Homework\HW19\obj\Debug\net8.0\HW19.GeneratedMSBuildEditorConfig.editorconfig
+D:\ВУЗ\.NET C#\Homework\HW19\obj\Debug\net8.0\HW19.AssemblyInfoInputs.cache
+D:\ВУЗ\.NET C#\Homework\HW19\obj\Debug\net8.0\HW19.AssemblyInfo.cs
+D:\ВУЗ\.NET C#\Homework\HW19\obj\Debug\net8.0\HW19.csproj.CoreCompileInputs.cache
+D:\ВУЗ\.NET C#\Homework\HW19\obj\Debug\net8.0\HW19.sourcelink.json
+D:\ВУЗ\.NET C#\Homework\HW19\obj\Debug\net8.0\HW19.dll
+D:\ВУЗ\.NET C#\Homework\HW19\obj\Debug\net8.0\refint\HW19.dll
+D:\ВУЗ\.NET C#\Homework\HW19\obj\Debug\net8.0\HW19.pdb
+D:\ВУЗ\.NET C#\Homework\HW19\obj\Debug\net8.0\HW19.genruntimeconfig.cache
+D:\ВУЗ\.NET C#\Homework\HW19\obj\Debug\net8.0\ref\HW19.dll

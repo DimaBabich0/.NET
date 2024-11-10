@@ -1,0 +1,15 @@
+D:\ВУЗ\.NET C#\Homework\HW20\bin\Debug\net8.0\HW20.exe
+D:\ВУЗ\.NET C#\Homework\HW20\bin\Debug\net8.0\HW20.deps.json
+D:\ВУЗ\.NET C#\Homework\HW20\bin\Debug\net8.0\HW20.runtimeconfig.json
+D:\ВУЗ\.NET C#\Homework\HW20\bin\Debug\net8.0\HW20.dll
+D:\ВУЗ\.NET C#\Homework\HW20\bin\Debug\net8.0\HW20.pdb
+D:\ВУЗ\.NET C#\Homework\HW20\obj\Debug\net8.0\HW20.GeneratedMSBuildEditorConfig.editorconfig
+D:\ВУЗ\.NET C#\Homework\HW20\obj\Debug\net8.0\HW20.AssemblyInfoInputs.cache
+D:\ВУЗ\.NET C#\Homework\HW20\obj\Debug\net8.0\HW20.AssemblyInfo.cs
+D:\ВУЗ\.NET C#\Homework\HW20\obj\Debug\net8.0\HW20.csproj.CoreCompileInputs.cache
+D:\ВУЗ\.NET C#\Homework\HW20\obj\Debug\net8.0\HW20.sourcelink.json
+D:\ВУЗ\.NET C#\Homework\HW20\obj\Debug\net8.0\HW20.dll
+D:\ВУЗ\.NET C#\Homework\HW20\obj\Debug\net8.0\refint\HW20.dll
+D:\ВУЗ\.NET C#\Homework\HW20\obj\Debug\net8.0\HW20.pdb
+D:\ВУЗ\.NET C#\Homework\HW20\obj\Debug\net8.0\HW20.genruntimeconfig.cache
+D:\ВУЗ\.NET C#\Homework\HW20\obj\Debug\net8.0\ref\HW20.dll

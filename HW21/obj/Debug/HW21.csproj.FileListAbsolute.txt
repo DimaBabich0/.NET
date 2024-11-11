@@ -1,0 +1,7 @@
+D:\ВУЗ\.NET C#\Homework\HW21\bin\Debug\HW21.exe.config
+D:\ВУЗ\.NET C#\Homework\HW21\bin\Debug\HW21.exe
+D:\ВУЗ\.NET C#\Homework\HW21\bin\Debug\HW21.pdb
+D:\ВУЗ\.NET C#\Homework\HW21\obj\Debug\HW21.csproj.AssemblyReference.cache
+D:\ВУЗ\.NET C#\Homework\HW21\obj\Debug\HW21.csproj.CoreCompileInputs.cache
+D:\ВУЗ\.NET C#\Homework\HW21\obj\Debug\HW21.exe
+D:\ВУЗ\.NET C#\Homework\HW21\obj\Debug\HW21.pdb

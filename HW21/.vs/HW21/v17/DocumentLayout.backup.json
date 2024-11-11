@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW21\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90F73363-7B9A-4B73-B367-317D8B237FE9}|HW21.csproj|d:\\\u0432\u0443\u0437\\.net c#\\homework\\hw21\\cafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F73363-7B9A-4B73-B367-317D8B237FE9}|HW21.csproj|solutionrelative:cafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F73363-7B9A-4B73-B367-317D8B237FE9}|HW21.csproj|d:\\\u0432\u0443\u0437\\.net c#\\homework\\hw21\\footballteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F73363-7B9A-4B73-B367-317D8B237FE9}|HW21.csproj|solutionrelative:footballteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F73363-7B9A-4B73-B367-317D8B237FE9}|HW21.csproj|d:\\\u0432\u0443\u0437\\.net c#\\homework\\hw21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F73363-7B9A-4B73-B367-317D8B237FE9}|HW21.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F73363-7B9A-4B73-B367-317D8B237FE9}|HW21.csproj|d:\\\u0432\u0443\u0437\\.net c#\\homework\\hw21\\oceanarium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F73363-7B9A-4B73-B367-317D8B237FE9}|HW21.csproj|solutionrelative:oceanarium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW21\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW21\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:58:04.406Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FootballTeam.cs",
+              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW21\\FootballTeam.cs",
+              "RelativeDocumentMoniker": "FootballTeam.cs",
+              "ToolTip": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW21\\FootballTeam.cs",
+              "RelativeToolTip": "FootballTeam.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T21:31:28.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cafe.cs",
+              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW21\\Cafe.cs",
+              "RelativeDocumentMoniker": "Cafe.cs",
+              "ToolTip": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW21\\Cafe.cs",
+              "RelativeToolTip": "Cafe.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T21:27:32.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Oceanarium.cs",
+              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW21\\Oceanarium.cs",
+              "RelativeDocumentMoniker": "Oceanarium.cs",
+              "ToolTip": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework\\HW21\\Oceanarium.cs",
+              "RelativeToolTip": "Oceanarium.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:58:19.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

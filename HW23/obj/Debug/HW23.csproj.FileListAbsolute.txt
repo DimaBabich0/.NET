@@ -1,0 +1,7 @@
+D:\ВУЗ\.NET C#\Homework\HW23\bin\Debug\HW23.exe.config
+D:\ВУЗ\.NET C#\Homework\HW23\bin\Debug\HW23.exe
+D:\ВУЗ\.NET C#\Homework\HW23\bin\Debug\HW23.pdb
+D:\ВУЗ\.NET C#\Homework\HW23\obj\Debug\HW23.csproj.AssemblyReference.cache
+D:\ВУЗ\.NET C#\Homework\HW23\obj\Debug\HW23.csproj.CoreCompileInputs.cache
+D:\ВУЗ\.NET C#\Homework\HW23\obj\Debug\HW23.exe
+D:\ВУЗ\.NET C#\Homework\HW23\obj\Debug\HW23.pdb

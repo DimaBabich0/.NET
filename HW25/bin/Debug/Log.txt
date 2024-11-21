@@ -1,0 +1,14 @@
+21.11.2024 21:44:21: Created object: 50.50
+21.11.2024 21:44:21: Created object: 49.75
+21.11.2024 21:44:21: Created object: 100.25
+21.11.2024 21:44:21: Addition: 50.50 + 49.75 = 100.25
+21.11.2024 21:44:21: Created object: 0.75
+21.11.2024 21:44:21: Subtraction: 50.50 - 49.75 = 0.75
+21.11.2024 21:44:21: Created object: 101.0
+21.11.2024 21:44:21: Multiplication: 50.50 * 2 = 101.0
+21.11.2024 21:44:21: Created object: 24.87
+21.11.2024 21:44:21: Division: 49.75 / 2 = 24.87
+21.11.2024 21:44:21: Increment: 50.51
+21.11.2024 21:44:21: Decrement: 49.74
+21.11.2024 21:44:21: Created object: 0.1
+21.11.2024 21:44:21: Error: Decrement 0.1 result to bankruptcy

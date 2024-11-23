@@ -1,0 +1,7 @@
+D:\ВУЗ\.NET C#\Homework\HW22\bin\Debug\HW22.exe.config
+D:\ВУЗ\.NET C#\Homework\HW22\bin\Debug\HW22.exe
+D:\ВУЗ\.NET C#\Homework\HW22\bin\Debug\HW22.pdb
+D:\ВУЗ\.NET C#\Homework\HW22\obj\Debug\HW22.csproj.AssemblyReference.cache
+D:\ВУЗ\.NET C#\Homework\HW22\obj\Debug\HW22.csproj.CoreCompileInputs.cache
+D:\ВУЗ\.NET C#\Homework\HW22\obj\Debug\HW22.exe
+D:\ВУЗ\.NET C#\Homework\HW22\obj\Debug\HW22.pdb

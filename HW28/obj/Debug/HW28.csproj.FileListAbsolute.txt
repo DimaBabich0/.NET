@@ -1,0 +1,7 @@
+D:\ВУЗ\.NET C#\Homework\HW28\bin\Debug\HW28.exe.config
+D:\ВУЗ\.NET C#\Homework\HW28\bin\Debug\HW28.exe
+D:\ВУЗ\.NET C#\Homework\HW28\bin\Debug\HW28.pdb
+D:\ВУЗ\.NET C#\Homework\HW28\obj\Debug\HW28.csproj.AssemblyReference.cache
+D:\ВУЗ\.NET C#\Homework\HW28\obj\Debug\HW28.csproj.CoreCompileInputs.cache
+D:\ВУЗ\.NET C#\Homework\HW28\obj\Debug\HW28.exe
+D:\ВУЗ\.NET C#\Homework\HW28\obj\Debug\HW28.pdb

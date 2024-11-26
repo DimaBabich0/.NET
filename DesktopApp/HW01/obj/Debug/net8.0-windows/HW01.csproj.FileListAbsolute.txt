@@ -1,0 +1,17 @@
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW01\bin\Debug\net8.0-windows\HW01.exe
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW01\bin\Debug\net8.0-windows\HW01.deps.json
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW01\bin\Debug\net8.0-windows\HW01.runtimeconfig.json
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW01\bin\Debug\net8.0-windows\HW01.dll
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW01\bin\Debug\net8.0-windows\HW01.pdb
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW01\obj\Debug\net8.0-windows\HW01.Form1.resources
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW01\obj\Debug\net8.0-windows\HW01.csproj.GenerateResource.cache
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW01\obj\Debug\net8.0-windows\HW01.GeneratedMSBuildEditorConfig.editorconfig
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW01\obj\Debug\net8.0-windows\HW01.AssemblyInfoInputs.cache
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW01\obj\Debug\net8.0-windows\HW01.AssemblyInfo.cs
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW01\obj\Debug\net8.0-windows\HW01.csproj.CoreCompileInputs.cache
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW01\obj\Debug\net8.0-windows\HW01.sourcelink.json
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW01\obj\Debug\net8.0-windows\HW01.dll
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW01\obj\Debug\net8.0-windows\refint\HW01.dll
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW01\obj\Debug\net8.0-windows\HW01.pdb
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW01\obj\Debug\net8.0-windows\HW01.genruntimeconfig.cache
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW01\obj\Debug\net8.0-windows\ref\HW01.dll

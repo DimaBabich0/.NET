@@ -1,0 +1,17 @@
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW04\bin\Debug\net8.0-windows\HW04.exe
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW04\bin\Debug\net8.0-windows\HW04.deps.json
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW04\bin\Debug\net8.0-windows\HW04.runtimeconfig.json
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW04\bin\Debug\net8.0-windows\HW04.dll
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW04\bin\Debug\net8.0-windows\HW04.pdb
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW04\obj\Debug\net8.0-windows\HW04.Form1.resources
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW04\obj\Debug\net8.0-windows\HW04.csproj.GenerateResource.cache
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW04\obj\Debug\net8.0-windows\HW04.GeneratedMSBuildEditorConfig.editorconfig
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW04\obj\Debug\net8.0-windows\HW04.AssemblyInfoInputs.cache
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW04\obj\Debug\net8.0-windows\HW04.AssemblyInfo.cs
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW04\obj\Debug\net8.0-windows\HW04.csproj.CoreCompileInputs.cache
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW04\obj\Debug\net8.0-windows\HW04.sourcelink.json
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW04\obj\Debug\net8.0-windows\HW04.dll
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW04\obj\Debug\net8.0-windows\refint\HW04.dll
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW04\obj\Debug\net8.0-windows\HW04.pdb
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW04\obj\Debug\net8.0-windows\HW04.genruntimeconfig.cache
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW04\obj\Debug\net8.0-windows\ref\HW04.dll

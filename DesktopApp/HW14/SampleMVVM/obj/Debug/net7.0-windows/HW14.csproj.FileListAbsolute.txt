@@ -1,0 +1,39 @@
+D:\ВУЗ\.NET C#\Classwork_DesktopApp\09. DependencyObject\SampleMVVM\bin\Debug\net7.0-windows\HW14.exe
+D:\ВУЗ\.NET C#\Classwork_DesktopApp\09. DependencyObject\SampleMVVM\bin\Debug\net7.0-windows\HW14.deps.json
+D:\ВУЗ\.NET C#\Classwork_DesktopApp\09. DependencyObject\SampleMVVM\bin\Debug\net7.0-windows\HW14.runtimeconfig.json
+D:\ВУЗ\.NET C#\Classwork_DesktopApp\09. DependencyObject\SampleMVVM\bin\Debug\net7.0-windows\HW14.dll
+D:\ВУЗ\.NET C#\Classwork_DesktopApp\09. DependencyObject\SampleMVVM\bin\Debug\net7.0-windows\HW14.pdb
+D:\ВУЗ\.NET C#\Classwork_DesktopApp\09. DependencyObject\SampleMVVM\obj\Debug\net7.0-windows\Views\MainView.baml
+D:\ВУЗ\.NET C#\Classwork_DesktopApp\09. DependencyObject\SampleMVVM\obj\Debug\net7.0-windows\Views\MainView.g.cs
+D:\ВУЗ\.NET C#\Classwork_DesktopApp\09. DependencyObject\SampleMVVM\obj\Debug\net7.0-windows\App.g.cs
+D:\ВУЗ\.NET C#\Classwork_DesktopApp\09. DependencyObject\SampleMVVM\obj\Debug\net7.0-windows\HW14_MarkupCompile.cache
+D:\ВУЗ\.NET C#\Classwork_DesktopApp\09. DependencyObject\SampleMVVM\obj\Debug\net7.0-windows\HW14.g.resources
+D:\ВУЗ\.NET C#\Classwork_DesktopApp\09. DependencyObject\SampleMVVM\obj\Debug\net7.0-windows\HW14.GeneratedMSBuildEditorConfig.editorconfig
+D:\ВУЗ\.NET C#\Classwork_DesktopApp\09. DependencyObject\SampleMVVM\obj\Debug\net7.0-windows\HW14.AssemblyInfoInputs.cache
+D:\ВУЗ\.NET C#\Classwork_DesktopApp\09. DependencyObject\SampleMVVM\obj\Debug\net7.0-windows\HW14.AssemblyInfo.cs
+D:\ВУЗ\.NET C#\Classwork_DesktopApp\09. DependencyObject\SampleMVVM\obj\Debug\net7.0-windows\HW14.csproj.CoreCompileInputs.cache
+D:\ВУЗ\.NET C#\Classwork_DesktopApp\09. DependencyObject\SampleMVVM\obj\Debug\net7.0-windows\HW14.dll
+D:\ВУЗ\.NET C#\Classwork_DesktopApp\09. DependencyObject\SampleMVVM\obj\Debug\net7.0-windows\refint\HW14.dll
+D:\ВУЗ\.NET C#\Classwork_DesktopApp\09. DependencyObject\SampleMVVM\obj\Debug\net7.0-windows\HW14.pdb
+D:\ВУЗ\.NET C#\Classwork_DesktopApp\09. DependencyObject\SampleMVVM\obj\Debug\net7.0-windows\HW14.genruntimeconfig.cache
+D:\ВУЗ\.NET C#\Classwork_DesktopApp\09. DependencyObject\SampleMVVM\obj\Debug\net7.0-windows\ref\HW14.dll
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW14\SampleMVVM\bin\Debug\net7.0-windows\HW14.exe
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW14\SampleMVVM\bin\Debug\net7.0-windows\HW14.deps.json
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW14\SampleMVVM\bin\Debug\net7.0-windows\HW14.runtimeconfig.json
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW14\SampleMVVM\bin\Debug\net7.0-windows\HW14.dll
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW14\SampleMVVM\bin\Debug\net7.0-windows\HW14.pdb
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW14\SampleMVVM\obj\Debug\net7.0-windows\Views\MainView.baml
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW14\SampleMVVM\obj\Debug\net7.0-windows\Views\MainView.g.cs
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW14\SampleMVVM\obj\Debug\net7.0-windows\App.g.cs
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW14\SampleMVVM\obj\Debug\net7.0-windows\HW14_MarkupCompile.cache
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW14\SampleMVVM\obj\Debug\net7.0-windows\HW14.g.resources
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW14\SampleMVVM\obj\Debug\net7.0-windows\HW14.GeneratedMSBuildEditorConfig.editorconfig
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW14\SampleMVVM\obj\Debug\net7.0-windows\HW14.AssemblyInfoInputs.cache
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW14\SampleMVVM\obj\Debug\net7.0-windows\HW14.AssemblyInfo.cs
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW14\SampleMVVM\obj\Debug\net7.0-windows\HW14.csproj.CoreCompileInputs.cache
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW14\SampleMVVM\obj\Debug\net7.0-windows\HW14.sourcelink.json
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW14\SampleMVVM\obj\Debug\net7.0-windows\HW14.dll
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW14\SampleMVVM\obj\Debug\net7.0-windows\refint\HW14.dll
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW14\SampleMVVM\obj\Debug\net7.0-windows\HW14.pdb
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW14\SampleMVVM\obj\Debug\net7.0-windows\HW14.genruntimeconfig.cache
+D:\ВУЗ\.NET C#\Homework\DesktopApp\HW14\SampleMVVM\obj\Debug\net7.0-windows\ref\HW14.dll
